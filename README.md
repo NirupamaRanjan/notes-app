@@ -6,8 +6,8 @@
 |---|---|
 | Name | Nirupama Ranjan |
 | Student ID | 2026201053 |
-| Course | Full-Stack Cloud Architectures |
-| GitHub repository | _https://github.com/your-username/notes-app_ |
+| Course | Software System Development |
+| GitHub repository | https://github.com/NirupamaRanjan/notes-app |
 
 ## Overview
 
